@@ -1,5 +1,5 @@
 # Predicting-Diabetes-readmissions
-## Predicting readmission of Diabetes patients in Hospital
+# Predicting readmission of Diabetes patients in Hospital
 
 ## General Assembly Data Science Immersive - Capstone Project
 
@@ -8,21 +8,23 @@ The objective of the project was to build a machine learning classifier to predi
 ## Background and Problem Statement
 
 Diabetes is a metabolic disease that causes high blood sugar. The hormone insulin moves sugar from the blood into your cells to be stored or used for energy. With diabetes, your body either doesn't make enough insulin or can't effectively use the insulin it does make.
+
 World health Organization studies shows:
-The number of people with diabetes rose from 108 million in 1980 to 422 million in 2014.
-Diabetes prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries.
-Diabetes is a major cause of blindness, kidney failure, heart attacks, stroke and lower limb amputation. 
-Diabetes impacts all social, economic, and ethnic backgrounds.
+* The number of people with diabetes rose from 108 million in 1980 to 422 million in 2014.
+* Diabetes prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries.
+* Diabetes is a major cause of blindness, kidney failure, heart attacks, stroke and lower limb amputation. 
+* Diabetes impacts all social, economic, and ethnic backgrounds.
+
 As Diabetes is a condition  that can be effectively treated in primary care facilities, high and increasing levels of hospital readmission are cause for concern and need to be investigated by hospitals to identify the causes. 
 
 ## What are some of the impacts of high hospital readmission - 
 
-High readmission rates can point to quality of hospital care
-Impact on the cost to the Healthcare providers - Medicare and Medicaid in the case of the US as this is a US dataset.
-Cost to the patient and their families.
-Psychological impact of repeated admissions, especially if it relates to the same illness.
-Increased staffing levels within the hospital 
-Increase in costs which has a negative impact on hospital budgets.
+* High readmission rates can point to quality of hospital care
+* Impact on the cost to the Healthcare providers - Medicare and Medicaid in the case of the US as this is a US dataset.
+* Cost to the patient and their families.
+* Psychological impact of repeated admissions, especially if it relates to the same illness.
+* Increased staffing levels within the hospital 
+* Increase in costs which has a negative impact on hospital budgets.
 
  
 ## Project overview
