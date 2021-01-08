@@ -37,27 +37,27 @@ The dataset was cleaned and transformed using feature engineering and split into
 
 To run the code, there were a number of Python libraries that needed to be installed. These are as follows:
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Logistic RegressionCV
-DecisionTree Classifier
-Bagging Classifier
-StandardScaler
-Metrics
-Train_test_split, cross_val_score, GridSearchCV
-Accuracy_score
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Logistic RegressionCV
+* DecisionTree Classifier
+* Bagging Classifier
+* StandardScaler
+* Metrics
+* Train_test_split, cross_val_score, GridSearchCV
+* Accuracy_score
 
 
 ## Summary/Findings
 
-Max_Glu_Serum  and A1C test were not available for all patients diagnosed with diabetes. As these are initial indicators of the disease and can guide the treatment required, these should be initial tests carried out to assist with the diagnosis of diabetes and should form part of the hospitals’ protocol.
-Patients aged 65 to 85 showed high levels of readmission, patient management plans need to be in place to manage these patients in primary care to reduce hospital readmission.
-Medications such as Chlorproomide,  Tolazimide, glimepiride-pioglitazone, Acetohexomide and Glyburide_metformin were identified as contributors to an increase in readmission. These medications need to be looked at to determine the effectiveness and possible alternative medication prescribed.
-The number of inpatient visits and the number of emergency visits a patient had were drivers of readmission. 
-Medications such as Mitglitol, Insulin, and Glizpizide were identified as contributors to decrease in readmission.
-The number of procedures a patient had was identified as a contributor to a decrease in readmission.
+* Max_Glu_Serum  and A1C test were not available for all patients diagnosed with diabetes. As these are initial indicators of the disease and can guide the treatment required, these should be initial tests carried out to assist with the diagnosis of diabetes and should form part of the hospitals’ protocol.
+* Patients aged 65 to 85 showed high levels of readmission, patient management plans need to be in place to manage these patients in primary care to reduce hospital readmission.
+* Medications such as Chlorproomide,  Tolazimide, glimepiride-pioglitazone, Acetohexomide and Glyburide_metformin were identified as contributors to an increase in readmission.   These medications need to be looked at to determine the effectiveness and possible alternative medication prescribed.
+* The number of inpatient visits and the number of emergency visits a patient had were drivers of readmission. 
+* Medications such as Mitglitol, Insulin, and Glizpizide were identified as contributors to decrease in readmission.
+* The number of procedures a patient had was identified as a contributor to a decrease in readmission.
 
 
 ## References
