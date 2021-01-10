@@ -65,7 +65,6 @@ To run the code, there were a number of Python libraries that needed to be insta
 ## References
 
 
-ICD9 Code - 
-The Web's Free ICD-9-CM & ICD-10-CM Medical Coding
+ICD9 Code - [The Web's Free ICD-9-CM & ICD-10-CM Medical Coding](http://www.icd9data.com/2009/Volume1/default.htm)
 
 Rubin (2015). “Hospital Readmission of Patients with Diabetes” https://link.springer.com/article/10.1007/s11892-015-0584-7
