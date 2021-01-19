@@ -31,7 +31,7 @@ As Diabetes is a condition  that can be effectively treated in primary care faci
 The project was  carried out using the data from the UCI machine learning repository ([link](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)).
 The data consists of over 100,000 hospital admissions of diabetes patients across 230 US hospitals between 1999 - 2008. The original dataset consists of 101,766 rows and 50 columns.
 
-In this project python was used to build predictive models. Classification techniques used to predict the likelihood of a diabetes patient being readmitted to a hospital using various modelling techniques. Identified the drivers of a readmission and proposed strategies for reducing readmission rates by using the model and other insights from the analysis. Multiple models such as Logistic Regression, Decision Trees, SVM and ensemble methods such as Bagging, and Boosting were used to create models and make predictions using these models. Model performances were evaluated and assessed. 
+In this project, Python was used to build predictive models. Classification techniques used to predict the likelihood of a diabetes patient being readmitted to a hospital using various modelling techniques. Identified the drivers of a readmission and proposed strategies for reducing readmission rates by using the model and other insights from the analysis. Multiple models such as Logistic Regression, Decision Trees, SVM and ensemble methods such as Bagging, and Boosting were used to create models and make predictions using these models. Model performances were evaluated and assessed. 
 The dataset was cleaned and transformed using feature engineering and split into training (70%) and testing (30%) test sets.
 
 ## Prerequisites
