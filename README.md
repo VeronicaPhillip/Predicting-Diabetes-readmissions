@@ -1,4 +1,3 @@
-# Predicting-Diabetes-readmissions
 # Predicting readmission of Diabetes patients in Hospital
 
 ## General Assembly Data Science Immersive - Capstone Project
